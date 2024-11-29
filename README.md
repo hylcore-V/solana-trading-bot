@@ -1,4 +1,4 @@
-<h1  align="center"> Solana Copy Trading Bot by SolVolume👽 </h1>
+<h1  align="center"> Solana Copy Trading Bot by SolVolume </h1>
 SolVolume is the best AIO-bot which includes Solana copy-trading, Parser/Analyzer Wallets, Tracker Wallets, Solana Volume, Solana Bump, Solana Sniper, MEV-bot.
 
 ![](files/SITE.png)
@@ -79,5 +79,4 @@ WSOL Exchange: Provided an easy way to wrap or unwrap SOL (WSOL), facilitating i
 2. `Copy this key and click TAKE ADVANTAGE`
 3. `Insert the key into the window that appears and download the bot`
 
-> [!TIP] 
-> If you have problems to understand all of this, [write to us](https://t.me/SolVolSupp_bot)!
+
