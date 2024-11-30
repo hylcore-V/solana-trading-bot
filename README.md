@@ -74,9 +74,6 @@ WSOL Exchange: Provided an easy way to wrap or unwrap SOL (WSOL), facilitating i
 [![Custom Button](https://img.shields.io/badge/PRICE-blue?style=for-the-badge)](https://solvolume.fun/#carousel_7e48)
 [![FAQ](https://img.shields.io/badge/FAQ-blue?style=for-the-badge)](https://solvolume.fun/FAQ.html)
 
-### TRIAL VERSION:
-1. `Go to the site and click FREE TRIAL to get a key to activate the bot. `
-2. `Copy this key and click TAKE ADVANTAGE`
-3. `Insert the key into the window that appears and download the bot`
+
 
 
